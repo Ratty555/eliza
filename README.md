@@ -110,7 +110,7 @@ Once the agent is running, you should see the message to run "pnpm start:client"
 Open another terminal, move to the same directory, run the command below, then follow the URL to chat with your agent.
 
 ```bash
-pnpm start:client
+pnpm start:client 
 ```
 
 Then read the [Documentation](https://elizaos.github.io/eliza/) to learn how to customize your Eliza.
